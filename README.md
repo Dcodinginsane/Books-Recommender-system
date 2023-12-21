@@ -93,7 +93,8 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/Dcondinginsane/Books-Recommender-System
+https://github.com/Dcodinginsane/Books-Recommender-system
+
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
